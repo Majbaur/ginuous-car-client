@@ -1,0 +1,177 @@
+[
+    {
+        "_id": "1",
+        "service_id": "05",
+        "title": "Bettery Cherger",
+        "img": "https://store.roboticsbd.com/c/139-category_default/battery-charger.jpg",
+        "price": "20000",
+        "description": "Purchase your Battery & Charger from Robotics Bangladesh. A wide variety of collection charger options are available to you. When you need to keep your batteries charged to ensure they provide you lasting power",
+        "facility": [
+            {
+                "name": "Instant Car Service",
+                "details": "Robotics Bangladesh's Battery & Charger is here to ensure you have power on-device."
+
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Battery & Charger is here to ensure you have power on-device."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "We here to ensure you have power on-device."
+            },
+
+            {
+                "name": "Quality Cost Service",
+                "details": "We here to ensure you have power on-device."
+            }
+
+        ]
+    },
+    {
+        "_id": "2",
+        "service_id": "05",
+        "title": "Bettery Cherger",
+        "img": "https://m.media-amazon.com/images/I/710oaNDapDL._AC_SL1500_.jpg",
+        "price": "20000",
+        "description": "Purchase your Battery & Charger from Robotics Bangladesh. A wide variety of collection charger options are available to you. When you need to keep your batteries charged to ensure they provide you lasting power",
+        "facility": [
+            {
+                "name": "Instant Car Service",
+                "details": "Robotics Bangladesh's Battery & Charger is here to ensure you have power on-device."
+
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Battery & Charger is here to ensure you have power on-device."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "We here to ensure you have power on-device."
+            },
+
+            {
+                "name": "Quality Cost Service",
+                "details": "We here to ensure you have power on-device."
+            }
+
+        ]
+    },
+    {
+        "_id": "3",
+        "service_id": "05",
+        "title": "Bettery Cherger",
+        "img": "https://m.media-amazon.com/images/I/710oaNDapDL._AC_SL1500_.jpg",
+        "price": "20000",
+        "description": "Purchase your Battery & Charger from Robotics Bangladesh. A wide variety of collection charger options are available to you. When you need to keep your batteries charged to ensure they provide you lasting power",
+        "facility": [
+            {
+                "name": "Instant Car Service",
+                "details": "Robotics Bangladesh's Battery & Charger is here to ensure you have power on-device."
+
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Battery & Charger is here to ensure you have power on-device."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "We here to ensure you have power on-device."
+            },
+
+            {
+                "name": "Quality Cost Service",
+                "details": "We here to ensure you have power on-device."
+            }
+
+        ]
+    },
+    {
+        "_id": "4",
+        "service_id": "05",
+        "title": "Bettery Cherger",
+        "img": "https://m.media-amazon.com/images/I/710oaNDapDL._AC_SL1500_.jpg",
+        "price": "20000",
+        "description": "Purchase your Battery & Charger from Robotics Bangladesh. A wide variety of collection charger options are available to you. When you need to keep your batteries charged to ensure they provide you lasting power",
+        "facility": [
+            {
+                "name": "Instant Car Service",
+                "details": "Robotics Bangladesh's Battery & Charger is here to ensure you have power on-device."
+
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Battery & Charger is here to ensure you have power on-device."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "We here to ensure you have power on-device."
+            },
+
+            {
+                "name": "Quality Cost Service",
+                "details": "We here to ensure you have power on-device."
+            }
+
+        ]
+    },
+    {
+        "_id": "5",
+        "service_id": "05",
+        "title": "Bettery Cherger",
+        "img": "https://m.media-amazon.com/images/I/710oaNDapDL._AC_SL1500_.jpg",
+        "price": "20000",
+        "description": "Purchase your Battery & Charger from Robotics Bangladesh. A wide variety of collection charger options are available to you. When you need to keep your batteries charged to ensure they provide you lasting power",
+        "facility": [
+            {
+                "name": "Instant Car Service",
+                "details": "Robotics Bangladesh's Battery & Charger is here to ensure you have power on-device."
+
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Battery & Charger is here to ensure you have power on-device."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "We here to ensure you have power on-device."
+            },
+
+            {
+                "name": "Quality Cost Service",
+                "details": "We here to ensure you have power on-device."
+            }
+
+        ]
+    },
+    {
+        "_id": "6",
+        "service_id": "05",
+        "title": "Bettery Cherger",
+        "img": "https://m.media-amazon.com/images/I/710oaNDapDL._AC_SL1500_.jpg",
+        "price": "20000",
+        "description": "Purchase your Battery & Charger from Robotics Bangladesh. A wide variety of collection charger options are available to you. When you need to keep your batteries charged to ensure they provide you lasting power",
+        "facility": [
+            {
+                "name": "Instant Car Service",
+                "details": "Robotics Bangladesh's Battery & Charger is here to ensure you have power on-device."
+
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Battery & Charger is here to ensure you have power on-device."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "We here to ensure you have power on-device."
+            },
+
+            {
+                "name": "Quality Cost Service",
+                "details": "We here to ensure you have power on-device."
+            }
+
+        ]
+    }
+
+]
