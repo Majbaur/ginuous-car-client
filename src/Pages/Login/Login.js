@@ -26,12 +26,12 @@ const Login = () => {
                             <span className="label-text">Password</span>
                         </label>
                         <input type="text" name='password' placeholder="password" className="input input-bordered" />
-                        <label className="label">
+                        {/* <label className="label">
                             <a href="#" className="label-text-alt link link-hover">Forgot password?</a>
-                        </label>
+                        </label> */}
                     </div>
                     <div className="form-control mt-6">
-                        <input className="btn btn-primary" type="submit" value="Login"></input>
+                        <input className="btn btn-primary" type="submit" value="Login" />
                     </div>
                 </form>
                 
